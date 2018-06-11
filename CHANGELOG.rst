@@ -1,7 +1,7 @@
 1.0.16 (unreleased)
 -------------------
 
-- Nothing changed yet.
+- bump
 
 
 1.0.15 (2018-05-19)
