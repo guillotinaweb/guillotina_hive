@@ -10,7 +10,7 @@ setup(
                       open('CHANGELOG.rst').read()),
     keywords=['asyncio', 'REST', 'Framework', 'transactional'],
     author='Ramon Navarro & Nathan VanGheem',
-    author_email='ramon@onna.com',
+    author_email='ramon.nb@gmail.com',
     classifiers=[
         'License :: OSI Approved :: BSD License',
         'Development Status :: 3 - Alpha',
@@ -19,7 +19,7 @@ setup(
         'Programming Language :: Python :: 3.6',
         'Topic :: Software Development :: Libraries :: Python Modules'
     ],
-    url='https://github.com/onna/guillotina_hive',
+    url='https://github.com/guillotinaweb/guillotina_hive',
     license='BSD',
     setup_requires=[
         'pytest-runner',
